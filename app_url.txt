@@ -1,1 +1,1 @@
-https://SU-APP.streamlit.app
+https://olist-proyecto-final.streamlit.app/
