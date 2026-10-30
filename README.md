@@ -1,6 +1,6 @@
 # Proyecto final · Olist: del pedido a la reseña
 
-**Equipo:** Ruiz Melissa, Rodrigo y Cesar · Bootcamp AIMLF1 (Kodigo)
+**Equipo:** Melissa Ruiz, César Serrano y Rodrigo Delgado · Bootcamp AIMLT1 (Kodigo)
 
 Proyecto de punta a punta con datos reales de Olist: SQL → modelo de riesgo de mala reseña → segmentación de vendedores → sentimiento de comentarios con deep learning → API en Render → app en Streamlit → ficha del modelo.
 
