@@ -1,0 +1,5 @@
+segmento,nombre,n_pedidos,ventas_total,precio_promedio,flete_relativo,tasa_retraso,n_categorias,tasa_mala_resena,n_vendedores,ventas_del_grupo_%,accion
+0,Con problemas de entrega,20.0,2807.805,118.114,0.195,0.2,1.0,0.233,124,5.9,"Plan de mejora logística: alerta temprana de despacho, revisión de su fecha prometida y prioridad de sus pedidos en el modelo de riesgo; si no mejora, limitar su visibilidad."
+1,Grandes y diversificados,122.0,11890.295,94.067,0.207,0.071,4.5,0.136,246,63.0,Gestor de cuenta dedicado: son el motor de ventas; proteger su operación con monitoreo semanal de retrasos y reseñas.
+2,"Ticket bajo, flete caro",22.0,1345.75,49.042,0.348,0.061,2.0,0.118,278,5.2,"Programa de envíos: tarifas de flete negociadas, incentivo a combos/pedido mínimo para que el flete pese menos en el precio."
+3,Ticket alto y entrega confiable,24.0,4718.0,156.857,0.131,0.053,2.0,0.108,357,25.9,"Crecimiento: más exposición en el sitio y campañas, porque entregan bien y venden caro; ayudarles a ampliar catálogo."
